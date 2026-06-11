@@ -1,4 +1,4 @@
-<h1>EXERCISE-2 🎉 Birthday Card Webpage 🎂</h1> 
+<h1> 🎉 Birthday Card Webpage 🎂</h1> 
 
 Welcome to the **Birthday Card Webpage** project! This webpage is designed to showcase a visually stunning and heartfelt birthday card with beautiful design elements and interactive features.
 
